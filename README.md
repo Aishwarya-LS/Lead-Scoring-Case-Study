@@ -15,9 +15,9 @@ An education company named X Education sells online courses to industry professi
 - Prediction on test set
 - Precision- Recall
 ## Details of files given
-- Leads Scoring Python.ipynb : The python file showing coding and data analysis
-- Assignment Subjective Questions and their answers.pdf : Some subjective questions answered
+- Leads_Scoring_Python.ipynb : The python file showing coding and data analysis
+- Assignment Subjective Questions and their answers.docx : Some subjective questions answered
 - Leads Scoring ppt.pdf : Final Presentation
 - Leads.csv : Data worked on
 - Leads Data Dictionary.xlsx : Data Dictionary
-- Assignment Summary Report.docx : Summary on what's done in the entire py file
+- Assignment Summary Report.pdf : Summary on what's done in the entire py file
